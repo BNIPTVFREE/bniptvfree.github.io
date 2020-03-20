@@ -1,13 +1,82 @@
 #EXTM3U
-#EXTINF:-1, antv
+#EXTINF:-1, TRANS TV
+https://www.useetv.com/livetv/transtv
+#EXTINF:-1, TRANS 7
+https://www.useetv.com/livetv/trans7
+#EXTINF:-1, NET TV
+https://www.useetv.com/livetv/net
+#EXTINF:-1, SCTV
+https://www.useetv.com/livetv/sctv
+#EXTINF:-1, INDOSIAR
+https://www.useetv.com/livetv/indosiar
+#EXTINF:-1, ANTV
 https://www.useetv.com/livetv/antv
+#EXTINF:-1, METRO TV
+https://www.useetv.com/livetv/metrotv
+#EXTINF:-1, TV ONE
+https://www.useetv.com/livetv/tvone
+#EXTINF:-1, BERITA SATU
+https://www.useetv.com/livetv/beritasatu
+#EXTINF:-1, TVRI
+https://www.useetv.com/livetv/tvri
+#EXTINF:-1, KOMPAS TV
+https://www.useetv.com/livetv/kompastv
+#EXTINF:-1, JTV
+https://www.useetv.com/livetv/jtv
+#EXTINF:-1, useeinfo
+https://www.useetv.com/livetv/useeinfo
+#EXTINF:-1, useephoto
+https://www.useetv.com/livetv/useephoto
+#EXTINF:-1, useeprime
+https://www.useetv.com/livetv/useeprime
+#EXTINF:-1, idku
+https://www.useetv.com/livetv/idku
+#EXTINF:-1, rtv
+https://www.useetv.com/livetv/rtv
+#EXTINF:-1, tvedukasi
+https://www.useetv.com/livetv/tvedukasi 
+#EXTINF:-1, daaitv
+https://www.useetv.com/livetv/daaitv
+#EXTINF:-1, bein1
+https://www.useetv.com/livetv/bein1
+#EXTINF:-1, bein2
+https://www.useetv.com/livetv/bein2
 #EXTINF:-1, useesport
 https://www.useetv.com/livetv/useesport
-#EXTINF:-1, useesport2
+#EXTINF:-1, useesports2
 https://www.useetv.com/livetv/useesports2
-#EXTINF:-1,
-https://m.vidio.com/live/204-sctv
-#EXTINF:-1,
-https://m.vidio.com/live/205-indosiar
-#EXTINF:-1,
-https://m.vidio.com/live/733-trans-tv
+#EXTINF:-1, champion1
+https://www.useetv.com/livetv/champion1
+#EXTINF:-1,champion2
+https://www.useetv.com/livetv/champion2
+#EXTINF:-1, foxsport1
+https://www.useetv.com/livetv/foxsport1
+#EXTINF:-1, foxsport2
+https://www.useetv.com/livetv/foxsport2
+#EXTINF:-1, foxsport3
+https://www.useetv.com/livetv/foxsport3
+#EXTINF:-1, egg
+https://www.useetv.com/livetv/egg
+#EXTINF:-1, cnnindonesia
+https://www.useetv.com/livetv/cnnindonesia
+#EXTINF:-1, bioskopindonesia
+https://www.useetv.com/livetv/bioskopindonesia
+#EXTINF:-1, zbioskop
+https://www.useetv.com/livetv/zbioskop
+#EXTINF:-1, galaxy
+https://www.useetv.com/livetv/galaxy
+#EXTINF:-1, flik
+https://www.useetv.com/livetv/flik
+#EXTINF:-1, imc
+https://www.useetv.com/livetv/imc
+#EXTINF:-1, tmusic
+https://www.useetv.com/livetv/tmusic
+#EXTINF:-1, citradangdut
+https://www.useetv.com/livetv/citradangdut
+#EXTINF:-1, pramborstv
+https://www.useetv.com/livetv/pramborstv
+#EXTINF:-1, babyfirst
+https://www.useetv.com/livetv/babyfirst
+#EXTINF:-1, ducktv
+https://www.useetv.com/livetv/ducktv
+
